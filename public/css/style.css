@@ -60,7 +60,7 @@ body {
 }
 
 /* Card */
-.card{
+.listing-card{
     border: none !important;
     margin-bottom: 2rem;
 }
@@ -71,7 +71,7 @@ body {
     object-fit: cover !important;
 }
 
-.card-body{
+.listing-card-body{
     padding: 0 !important;
 }
 
